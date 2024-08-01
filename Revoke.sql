@@ -1,1 +1,1 @@
-REVOKE UPDATE ON your_database_name.Books FROM 'martin'@'localhost';
+REVOKE UPDATE ON Bookstore.Books FROM 'martin'@'localhost';
